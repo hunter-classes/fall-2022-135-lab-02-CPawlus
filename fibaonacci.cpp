@@ -34,7 +34,7 @@ int main()
 
 What I observe in behavior of the printed numbers is that the numbers start to diverge 
 and change value, I think this happens due to a memory overflow or issue since the memory 
-for integers is approximately a little over -+2 billion and as the numbesr grow larger it reaches 
+for integers is approximately a little over -+2 billion and as the numbers grow larger it reaches 
 the memory limit of a integer type value.
 
 */
